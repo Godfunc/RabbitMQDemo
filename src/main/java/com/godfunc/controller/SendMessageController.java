@@ -19,7 +19,7 @@ import java.util.Date;
  */
 @RestController
 @RequestMapping("ttl")
-public class dSendMessageController {
+public class SendMessageController {
 
     Logger log = LoggerFactory.getLogger(this.getClass());
     @Autowired
